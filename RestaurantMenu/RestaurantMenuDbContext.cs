@@ -29,6 +29,7 @@ namespace RestaurantMenu.DAL
         public DbSet<IngredientAmountEntity> IngredientAmounts => Set<IngredientAmountEntity>();
 
         // OnModelCrating documentation: https://docs.microsoft.com/en-us/dotnet/api/system.data.entity.dbcontext.onmodelcreating?view=entity-framework-6.2.0
+        // Seeds data to database
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);

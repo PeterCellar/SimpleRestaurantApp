@@ -3,3 +3,8 @@
 ################################################################################
 
 /RestaurantMenu.DAL.Tests/bin
+/RestaurantMenu.DAL.Tests/obj
+/RestaurantMenu.Common.Tests/obj/Debug/net6.0
+/RestaurantMenu.Common.Tests/bin/Debug/net6.0
+/RestaurantMenu.Common.Tests/obj
+/RestaurantMenu.Common/bin/Debug/net6.0
