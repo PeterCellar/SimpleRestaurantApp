@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "vXMU87l9LCT/7XoGgpebhOg2bl0ytuT/pBg8u+Oq7w38bvYr6v0lA9kY7+Efq7+UoC7uURCmGcqJG77Un6q+qw==",
+  "dgSpecHash": "bIquUbVjoCBlVTGBNco49ufLdirTKpnU9H3d3+LbIY6BdNZ589PZ1YK8D9wBw2lBiRxRH4VZSaS2VNTR3g5lbQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\hurna\\source\\repos\\PeterCellar\\SimpleRestaurantApp\\RestaurantMenu\\RestaurantMenu.DAL.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\hurna\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\hurna\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\hurna\\.nuget\\packages\\automapper.collection\\8.0.0\\automapper.collection.8.0.0.nupkg.sha512",
+    "C:\\Users\\hurna\\.nuget\\packages\\automapper.collection.entityframeworkcore\\8.0.0\\automapper.collection.entityframeworkcore.8.0.0.nupkg.sha512",
+    "C:\\Users\\hurna\\.nuget\\packages\\automapper.extensions.expressionmapping\\5.0.0\\automapper.extensions.expressionmapping.5.0.0.nupkg.sha512",
+    "C:\\Users\\hurna\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\hurna\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\hurna\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\hurna\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.5\\microsoft.entityframeworkcore.6.0.5.nupkg.sha512",
