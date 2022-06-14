@@ -3,6 +3,10 @@
 namespace RestaurantMenu.DAL.Factories
 {
     // Interface documentation: https://docs.microsoft.com/en-us/dotnet/api/system.data.entity.infrastructure.idbcontextfactory-1?view=entity-framework-6.2.0
+    /*
+     * Factory for creating derived DbContext instance. Enables design-time services for
+     * context types that do not have a public default constructor
+     */
     public class SqlServerDbContextFactory : IDbContextFactory<RestaurantMenuDbContext>
     {
         private readonly string _connectionString;

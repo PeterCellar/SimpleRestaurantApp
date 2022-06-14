@@ -1,16 +1,17 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 using RestaurantMenu.DAL.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace RestaurantMenu.DAL.UnitOfWork
 {
     public static class QueryableExtensions
     {
+        // CancellationToken doc : https://docs.microsoft.com/en-us/dotnet/api/system.threading.cancellationtoken?view=net-6.0
+        /* 
+         * Propagates notification that operations should be cancdeled. 
+         */
+
         public static async Task PreLoadChangeTracker<TEntity>(this IQueryable<TEntity> dbSet, Guid entityId, IModel model, CancellationToken cancellationToken) where TEntity : class, IEntity
             => await dbSet
             .IncludeFirstLevelNavigationProperties(model)

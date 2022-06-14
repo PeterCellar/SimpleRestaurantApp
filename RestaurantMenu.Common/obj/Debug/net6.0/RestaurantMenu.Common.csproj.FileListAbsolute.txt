@@ -1,0 +1,14 @@
+C:\Users\hurna\source\repos\PeterCellar\SimpleRestaurantApp\RestaurantMenu.Common\bin\Debug\net6.0\RestaurantMenu.Common.deps.json
+C:\Users\hurna\source\repos\PeterCellar\SimpleRestaurantApp\RestaurantMenu.Common\bin\Debug\net6.0\RestaurantMenu.Common.dll
+C:\Users\hurna\source\repos\PeterCellar\SimpleRestaurantApp\RestaurantMenu.Common\bin\Debug\net6.0\RestaurantMenu.Common.pdb
+C:\Users\hurna\source\repos\PeterCellar\SimpleRestaurantApp\RestaurantMenu.Common\obj\Debug\net6.0\RestaurantMenu.Common.csproj.AssemblyReference.cache
+C:\Users\hurna\source\repos\PeterCellar\SimpleRestaurantApp\RestaurantMenu.Common\obj\Debug\net6.0\RestaurantMenu.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hurna\source\repos\PeterCellar\SimpleRestaurantApp\RestaurantMenu.Common\obj\Debug\net6.0\RestaurantMenu.Common.AssemblyInfoInputs.cache
+C:\Users\hurna\source\repos\PeterCellar\SimpleRestaurantApp\RestaurantMenu.Common\obj\Debug\net6.0\RestaurantMenu.Common.AssemblyInfo.cs
+C:\Users\hurna\source\repos\PeterCellar\SimpleRestaurantApp\RestaurantMenu.Common\obj\Debug\net6.0\RestaurantMenu.Common.csproj.CoreCompileInputs.cache
+C:\Users\hurna\source\repos\PeterCellar\SimpleRestaurantApp\RestaurantMenu.Common\obj\Debug\net6.0\RestaurantMenu.Common.dll
+C:\Users\hurna\source\repos\PeterCellar\SimpleRestaurantApp\RestaurantMenu.Common\obj\Debug\net6.0\refint\RestaurantMenu.Common.dll
+C:\Users\hurna\source\repos\PeterCellar\SimpleRestaurantApp\RestaurantMenu.Common\obj\Debug\net6.0\RestaurantMenu.Common.pdb
+C:\Users\hurna\source\repos\PeterCellar\SimpleRestaurantApp\RestaurantMenu.Common\obj\Debug\net6.0\ref\RestaurantMenu.Common.dll
+C:\Users\hurna\source\repos\PeterCellar\SimpleRestaurantApp\RestaurantMenu.Common\bin\Debug\net6.0\RestaurantMenu.Common.runtimeconfig.json
+C:\Users\hurna\source\repos\PeterCellar\SimpleRestaurantApp\RestaurantMenu.Common\obj\Debug\net6.0\RestaurantMenu.Common.genruntimeconfig.cache

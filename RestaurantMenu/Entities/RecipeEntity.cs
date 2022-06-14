@@ -14,6 +14,8 @@ namespace RestaurantMenu.DAL.Entities
         FoodType FoodType,
         string? ImageUrl) : IEntity
     {
+        // ICollection doc: https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icollection-1?view=net-6.0#definition
+        // ICollection defines methods to manipulate generic collections
         // All ingredients used in recipe
         // Iterable -> we can add new ingredients
         public ICollection<IngredientAmountEntity> Ingredients { get; init; } = new List<IngredientAmountEntity>();

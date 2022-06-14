@@ -13,6 +13,11 @@ namespace RestaurantMenu.DAL.Entities
         Guid RecipeId,
         Guid IngredientId) : IEntity
     {
+
+        /* 
+         * Nullable reference types is a group of features to minimize 
+         * the likelihood of the causes that cause the runtime to throw System.NullReferenceException
+        */
 #nullable disable
         public IngredientAmountEntity() : this(default, default, default, default, default) { }
 #nullable enable
